@@ -1,2 +1,3 @@
 # NALYA
-Forum purement anonyme pour le partage !
+App web -> thread horreur/ thread/ chronique/ ....
+Langage => Go Sqlite Js React Html Css
